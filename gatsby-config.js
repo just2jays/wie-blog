@@ -1,14 +1,14 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `World Is Ending Blog`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `JJ`,
+      summary: `Is that a cinnamon bun?`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsby-starter-blog-demo.netlify.app/`,
+    description: `Music, Technology, Web Development, Food and Other Things I Like....`,
+    siteUrl: `https://blog.worldisending.com/`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `just2jays`,
     },
   },
   plugins: [
@@ -60,8 +60,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Gatsby Starter Blog`,
-        short_name: `GatsbyJS`,
+        name: `World Is Ending Blog`,
+        short_name: `WIEblog`,
         start_url: `/`,
         background_color: `#ffffff`,
         theme_color: `#663399`,
