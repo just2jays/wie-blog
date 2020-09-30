@@ -1,6 +1,6 @@
 ---
 title: Hello World (Is Ending!)
-date: "Wed, 30 Sep 2020 02:53:07 GMT"
+date: "2020-09-30T03:34:49.022Z"
 description: "A foray into the mind of a quarantined web developer."
 ---
 
