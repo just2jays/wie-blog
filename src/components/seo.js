@@ -8,6 +8,7 @@
 import React from "react"
 import PropTypes from "prop-types"
 import { Helmet } from "react-helmet"
+import get from 'lodash/get'
 import { useStaticQuery, graphql } from "gatsby"
 
 const SEO = ({ description, lang, meta, title, image }) => {
@@ -28,6 +29,7 @@ const SEO = ({ description, lang, meta, title, image }) => {
     `
   )
 
+  const metaImage = image || ''
   const metaDescription = description || site.siteMetadata.description
   const defaultTitle = site.siteMetadata?.title
 
@@ -57,7 +59,7 @@ const SEO = ({ description, lang, meta, title, image }) => {
         },
         {
           property: `og:image`,
-          content: `${site.siteMetadata.siteUrl}${image.src}`,
+          content: metaImage,
         },
         {
           name: `twitter:card`,

@@ -18,7 +18,7 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
       <SEO
         title={post.frontmatter.title}
         description={post.frontmatter.description || post.excerpt}
-        image={featuredImgFluid || ''}
+        image={data.site.siteMetadata.siteUrl + get(post, 'frontmatter.featuredImage.childImageSharp.fluid.src', '')}
       />
       <article
         className="blog-post"
