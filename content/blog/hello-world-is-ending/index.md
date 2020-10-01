@@ -1,13 +1,15 @@
 ---
 title: Hello World (Is Ending!)
 date: "2020-09-30T03:34:49.022Z"
-description: "A foray into the mind of a quarantined web developer."
-tags: ["welcome", "hello", "hello world", "technology", "food", "la croix", "gatby js"]
+description: "The first and hopefully not last rantings of a technologist, musician, and cinnamon bun fan."
+tags: ["welcome", "hello", "hello world", "technology", "food", "la croix", "gatbyjs"]
 ---
 
 # So glad you're here...
 
-Please sit down. Have a la croix.
+Please sit down...
+
+Have a La Croix....
 
 This is a blog that exists for a number of reasons.
 
