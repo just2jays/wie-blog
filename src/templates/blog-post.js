@@ -1,6 +1,6 @@
 import React from "react"
 import { Link, graphql } from "gatsby"
-
+import kebabCase from 'lodash/kebabCase';
 import Bio from "../components/bio"
 import Layout from "../components/layout"
 import SEO from "../components/seo"
@@ -23,7 +23,24 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
       >
         <header>
           <h1 itemProp="headline">{post.frontmatter.title}</h1>
-          <p>{post.frontmatter.date}</p>
+          <div><strong>Published:</strong> {post.frontmatter.date}</div>
+          {post.frontmatter.tags.length > 0 && (
+            <div>
+              <strong>Tags: </strong>
+              {post.frontmatter.tags.map((tag, index) => {
+                let separator = index < post.frontmatter.tags.length - 1 ? ', ' : '';
+                return(
+                  <span>
+                    <Link to={`/tags/${kebabCase(tag)}/`}>
+                      {tag}
+                    </Link>
+                    {separator}
+                  </span>
+                );
+              })}
+            </div>
+          )}
+          <p><hr /></p>
         </header>
         <section
           dangerouslySetInnerHTML={{ __html: post.html }}
@@ -81,6 +98,7 @@ export const pageQuery = graphql`
         title
         date(formatString: "MMMM DD, YYYY")
         description
+        tags
       }
     }
   }

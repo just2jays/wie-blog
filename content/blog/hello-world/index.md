@@ -2,6 +2,7 @@
 title: Hello World (Is Ending!)
 date: "2020-09-30T03:34:49.022Z"
 description: "A foray into the mind of a quarantined web developer."
+tags: ["welcome", "hello", "hello world", "technology", "food", "la croix", "gatby js"]
 ---
 
 # So glad you're here...
