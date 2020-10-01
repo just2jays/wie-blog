@@ -34,7 +34,7 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
               {post.frontmatter.tags.map((tag, index) => {
                 let separator = index < post.frontmatter.tags.length - 1 ? ', ' : '';
                 return(
-                  <span>
+                  <span key={`post-tag-${index}`}>
                     <Link to={`/tags/${kebabCase(tag)}/`}>
                       {tag}
                     </Link>
@@ -44,7 +44,7 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
               })}
             </div>
           )}
-          <p><hr /></p>
+          <hr />
         </header>
         {featuredImgFluid && (
           <Img fluid={featuredImgFluid} />

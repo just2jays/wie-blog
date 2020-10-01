@@ -6,8 +6,6 @@ tags: ["spatial audio", "spatial", "remote tools", "chat", "video chat", "Mozill
 featuredImage: ./park-troopers-RAtKWVlfdf4-unsplash.jpg
 ---
 
-
-
 The COVID-19 pandemic has forced many employees to work in places and conditions that they
 weren't quite accustomed to.
 
