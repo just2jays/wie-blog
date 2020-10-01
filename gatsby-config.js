@@ -30,10 +30,15 @@ module.exports = {
       resolve: `gatsby-transformer-remark`,
       options: {
         plugins: [
+          // gatsby-remark-relative-images must go before gatsby-remark-images
+          `gatsby-remark-relative-images`,
           {
             resolve: `gatsby-remark-images`,
             options: {
               maxWidth: 630,
+              linkImagesToOriginal: false,
+              sizeByPixelDensity: true,
+              showCaptions: true
             },
           },
           {

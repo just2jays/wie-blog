@@ -5,6 +5,8 @@ description: "A foray into the mind of a quarantined web developer."
 tags: ["spatial audio", "spatial", "remote tools", "chat", "video chat", "Mozilla", "Zoom", "Slack"]
 ---
 
+![...Text that you want for the figure caption...](./park-troopers-RAtKWVlfdf4-unsplash.jpg '...alt text...')
+
 The COVID-19 pandemic has forced many employees to work in places and conditions that they
 weren't quite accustomed to.
 
