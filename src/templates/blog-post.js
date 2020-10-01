@@ -1,20 +1,24 @@
 import React from "react"
 import { Link, graphql } from "gatsby"
+import get from 'lodash/get'
 import kebabCase from 'lodash/kebabCase';
 import Bio from "../components/bio"
 import Layout from "../components/layout"
+import Img from "gatsby-image"
 import SEO from "../components/seo"
 
 const BlogPostTemplate = ({ data, pageContext, location }) => {
   const post = data.markdownRemark
   const siteTitle = data.site.siteMetadata?.title || `Title`
   const { previous, next } = pageContext
+  let featuredImgFluid = get(post, 'frontmatter.featuredImage.childImageSharp.fluid', undefined);
 
   return (
     <Layout location={location} title={siteTitle}>
       <SEO
         title={post.frontmatter.title}
         description={post.frontmatter.description || post.excerpt}
+        image={featuredImgFluid || ''}
       />
       <article
         className="blog-post"
@@ -42,6 +46,9 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
           )}
           <p><hr /></p>
         </header>
+        {featuredImgFluid && (
+          <Img fluid={featuredImgFluid} />
+        )}
         <section
           dangerouslySetInnerHTML={{ __html: post.html }}
           itemProp="articleBody"
@@ -99,6 +106,13 @@ export const pageQuery = graphql`
         date(formatString: "MMMM DD, YYYY")
         description
         tags
+        featuredImage {
+          childImageSharp {
+            fluid(maxWidth: 800) {
+              ...GatsbyImageSharpFluid
+            }
+          }
+        }
       }
     }
   }
