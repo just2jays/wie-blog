@@ -6,11 +6,11 @@ tags: ["tacos", "taco", "tortillas", "national taco day", "USA", "NFL", "Footbal
 featuredImage: ./xavier-crook-wIqpmuOloVA-unsplash.jpg
 ---
 
-According to [National Today][https://nationaltoday.com/], it is officially ["National Taco Day"](https://nationaltoday.com/national-taco-day/) in the USA. You couldn't have asked for a better day for it. Here on the East coast, the crisp Fall weather has given way to a perfect, mid-60's Sunday. Perfect for grilling some proteins, chopping some veggies, stripping some herbs, and wrapping it all in a warm tortilla. Will you soft shell or will you relent to the hard shell? Maybe one of each?
+According to [National Today](https://nationaltoday.com/), it is officially ["National Taco Day"](https://nationaltoday.com/national-taco-day/) in the USA. You couldn't have asked for a better day for it. Here on the East coast, the crisp Fall weather has given way to a perfect, mid-60's Sunday. Perfect for grilling some proteins, chopping some veggies, stripping some herbs, and wrapping it all in a warm tortilla. Will you soft shell or will you relent to the hard shell? Maybe one of each?
 
-As always, please use caution when taking advantage of these deals! (We are still in a national pandemic after all.) If you can order in, the World Is Ending blog would certainly reccomend it!.
+As always, please use caution when taking advantage of these deals! (We are still in a national pandemic after all.) If you can order in, the World Is Ending blog would certainly recommend it!
 
-Anyways, too many questions and warnnings too early, lets find you some tacos!
+Anyways, too many questions and warnings too early, let's find you some tacos!
 
 # Find Some Tacos
 
