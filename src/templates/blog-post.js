@@ -4,6 +4,7 @@ import get from 'lodash/get'
 import kebabCase from 'lodash/kebabCase';
 import Bio from "../components/bio"
 import Layout from "../components/layout"
+import FeatureImage from "../components/FeatureImage/FeatureImage"
 import Img from "gatsby-image"
 import SEO from "../components/seo"
 
@@ -47,7 +48,9 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
           <hr />
         </header>
         {featuredImgFluid && (
-          <Img fluid={featuredImgFluid} />
+          <FeatureImage>
+            <Img fluid={featuredImgFluid} />
+          </FeatureImage>
         )}
         <section
           dangerouslySetInnerHTML={{ __html: post.html }}
