@@ -12,7 +12,7 @@ Bins of old video games, a handful of cassettes, and a large selection of vinyl 
 
 What's not going to make it? **My VHS tapes**.
 
-I came to this decision just based on their sheer size and utility. The amount of space they take up isn't worth it for the amount of pleasure I receive from them, which is none. (Thanks [Marie Kondo](https://en.wikipedia.org/wiki/Marie_Kondo)!)) I don't own a VHS player, no one I know of has a VHS player. I'm aware I can have them "digitized", so that they would be just like any other movie file on my computer...but Netflix/Hulu/Amazon Prime/etc.
+I came to this decision just based on their sheer size and utility. The amount of space they take up isn't worth it for the amount of pleasure I receive from them, which is none. (Thanks [Marie Kondo](https://en.wikipedia.org/wiki/Marie_Kondo)!) I don't own a VHS player, no one I know of has a VHS player. I'm aware I can have them "digitized", so that they would be just like any other movie file on my computer...but Netflix/Hulu/Amazon Prime/etc.
 
 All of this said, there was a time when these tapes _did_ bring joy and for that reason, they deserve recognition. Each will have a link where you can find more info and probably even stream them if you wanted to. They'll be ordered descending based on how I'd star rank them. (This is my blog. I'm the blogtain now.)
 
