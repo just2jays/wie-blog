@@ -13,9 +13,9 @@ Halloween comes and goes every year, but the candy every kid yearns for pretty m
 
 Here are some quick tips and important tricks so that you can ace the Halloween canddy game, before dive into the individual candy rankings:
 
-1. Safety first! Do **NOT** server loose/unwrapped or unpackaged candy. Let's be honest it just looks shady and even given the greatest of intentions, will be thrown out upon inspection by any sensible adult (and almost all sensible children.)
+1. Safety first! Do **NOT** serve loose/unwrapped or unpackaged candy. Let's be honest it just looks shady and even given the greatest of intentions, will be thrown out upon inspection by any sensible adult (and almost all sensible children.)
 
-2. It's important to go to the grocery store early. You _do not_ want to be the house on the block with the crap candy  because, "that was all they had left." - so most importantly, write down/print out this list and get buying these chandies immediately!.
+2. It's important to go to the grocery store early. You _do not_ want to be the house on the block with the crap candy  because, "that was all they had left." - so most importantly, write down/print out this list and get buying these candies immediately!.
 
 3. **Bigger Is Better** - A common phrase that no doubt also comes into play when talking about Halloween candy. The bigger the candy you give, the more talked about/bragged about your house will be among the local trick-or-treaters. If you enjoy handing out Halloween candy every year, no doubt giving a full size candy bar will ensure your house is a "must stop" along most trick-or-treater routes.
 
