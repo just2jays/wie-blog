@@ -16,6 +16,8 @@ Keepers are sites that continue to provide information, entertainment, or some o
 - [Mailinator](https://www.mailinator.com/)
 - [OpenSea](https://opensea.io/)
 - [Untappd](https://untappd.com)
+- [Can I Use](https://caniuse.com/)
+- [Trakt](https://trakt.tv)
 
 # Goners
 Goners are former keepers that have lost their time in the bookmark sun. Great websites, with lots to offer, but just not something to check out on a consistent basis anymore.
@@ -63,6 +65,7 @@ Goners are former keepers that have lost their time in the bookmark sun. Great w
 - [Pock](https://pock.app/)
 - [LMMS](https://lmms.io/)
 - [Typora](https://typora.io/)
+- [Coaster](https://heycoaster.com/)
 
 # Shopping & Products
 - [Oda](https://oda.co/)
@@ -132,6 +135,7 @@ Goners are former keepers that have lost their time in the bookmark sun. Great w
 - [Anyfiddle](https://www.anyfiddle.com/)
 - [Dom Events](https://domevents.dev/)
 - [framestack](https://www.framestack.net/)
+- [regex101](https://regex101.com/)
 
 # Social/Chat/Collaborate
 - [Jel](https://jel.app/)
@@ -141,6 +145,8 @@ Goners are former keepers that have lost their time in the bookmark sun. Great w
 - [sockhop](https://sockhop.me/)
 - [Branch](https://www.branch.gg/)
 - [Pluto](https://www.pluto.video/)
+- [Spot](https://www.spotvirtual.com/)
+- [Thursday](https://thursday.social/)
 
 # Online Tools & Resources
 - [Focalboard](https://www.focalboard.com/)
