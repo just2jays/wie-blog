@@ -21,6 +21,7 @@ Goners are former keepers that have lost their time in the bookmark sun. Great w
 
 # Finance & Crypto
 - [CoinCap](https://coincap.io/)
+- [useWeb3](https://www.useweb3.xyz/)
 
 # Software & Apps
 - [TV Time](https://www.tvtime.com/)
@@ -35,6 +36,8 @@ Goners are former keepers that have lost their time in the bookmark sun. Great w
 # Audio/Video
 - [FileParty](https://fileparty.co/)
 - [I Miss My Bar](http://imissmybar.com/)
+- [Reaper](https://www.reaper.fm/)
+- [Radio Garden](http://radio.garden/)
 
 # Games & Gaming
 - [SnickSnack](https://snicksnack.club/)
@@ -52,9 +55,11 @@ Goners are former keepers that have lost their time in the bookmark sun. Great w
 - [Whyp](https://whyp.it/)
 - [Lofi Cafe](https://lofi.cafe/)
 - [Relisten](https://relisten.net/)
+- [Here Before A Million](https://herebeforeamillion.com/)
 
 # Food & Beverage
 - [Hop Culture](https://www.hopculture.com/)
+- [Stovetop](https://stovetop.app/)
 
 # Programming/Web Development
 - [Moiva](https://moiva.io/)
@@ -64,6 +69,7 @@ Goners are former keepers that have lost their time in the bookmark sun. Great w
 - [Waterfaller](https://waterfaller.dev/)
 - [DevDocs](https://devdocs.io/)
 - [Devbook](https://usedevbook.com/)
+- [Openbase](https://openbase.com/)
 
 # Social/Chat/Collaborate
 - [Jel](https://jel.app/)
