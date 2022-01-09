@@ -19,7 +19,56 @@ Goners are former keepers that have lost their time in the bookmark sun. Great w
 
 # Graveyard
 
+# Finance & Crypto
+- [CoinCap](https://coincap.io/)
+
 # Software & Apps
+- [TV Time](https://www.tvtime.com/)
+- [Obsidian](https://obsidian.md/)
+- [Raycast](https://raycast.com/)
 
 # Shopping & Products
 - [Oda](https://oda.co/)
+- [Reddit Bests](https://redditbests.com/)
+- [StockX](https://stockx.com/)
+
+# Audio/Video
+- [FileParty](https://fileparty.co/)
+- [I Miss My Bar](http://imissmybar.com/)
+
+# Games & Gaming
+- [SnickSnack](https://snicksnack.club/)
+- [Drawception](https://drawception.com/)
+- [GameLib](https://gamelib.app/)
+
+# News & Info
+- [Exploding Topics](https://explodingtopics.com/)
+- [The Factual](https://www.thefactual.com/)
+
+# Music
+- [Patatap](https://www.patatap.com/)
+- [Send A Mix Tape](https://sendamixtape.com/)
+- [Vibe City FM](https://vibecity.fm/)
+- [Whyp](https://whyp.it/)
+- [Lofi Cafe](https://lofi.cafe/)
+- [Relisten](https://relisten.net/)
+
+# Food & Beverage
+- [Hop Culture](https://www.hopculture.com/)
+
+# Programming/Web Development
+- [Moiva](https://moiva.io/)
+- [Fig](https://withfig.com/)
+- [Ray.so](https://ray.so/)
+- [Dev Resources](https://devresourc.es/)
+- [Waterfaller](https://waterfaller.dev/)
+- [DevDocs](https://devdocs.io/)
+- [Devbook](https://usedevbook.com/)
+
+# Social/Chat/Collaborate
+- [Jel](https://jel.app/)
+- [Agave](https://www.agave.com/)
+- [WorkAdventure](https://workadventu.re/)
+
+# Professional Resources
+- [Focalboard](https://www.focalboard.com/)
