@@ -79,18 +79,28 @@ Goners are former keepers that have lost their time in the bookmark sun. Great w
 
 ## Software & Apps
 - [TV Time](https://www.tvtime.com/)
+  - Check-in to television shows
 - [Obsidian](https://obsidian.md/)
+  - Take notes on steroids!
 - [Raycast](https://raycast.com/)
+  - Replace your Mac spotlight with something way better
 - [Whiskey](http://usewhiskey.com/)
+  - Markdown app
 - [Drovp](https://drovp.app/)
 - [Layouts](https://www.maclayouts.com/)
 - [Notion](https://notion.so)
+  - More notes on steroids, this time with databases
 - [Zappy](https://zapier.com/zappy)
+  - Take screencasts/shots with ease
 - [Rectangle](https://rectangleapp.com/)
+  - Super simple Mac window management
 - [Pock](https://pock.app/)
+  - Put your mac touch bar to use
 - [LMMS](https://lmms.io/)
 - [Typora](https://typora.io/)
+  - Yet another Markdown editor
 - [Coaster](https://heycoaster.com/)
+  - Set Unsplash photos as your desktop background in a pinch
 
 ## Shopping & Products
 - [Oda](https://oda.co/)
@@ -215,8 +225,11 @@ Goners are former keepers that have lost their time in the bookmark sun. Great w
 - [bunny](https://bunny.lucy.sh/)
 - [neverinstall](https://neverinstall.com/)
 - [HeadScroll](https://headscroll.io/)
+  - Scroll webpages by tilting your head...really! (Great for reading & playing guitar tabs simultaneously)
 - [KeyVal](https://keyval.org/)
+  - Store keys & values and retrieve them with ease
 - [Pixlr](https://pixlr.com/)
 - [LOREM.SPACE](https://lorem.space/)
+  - Placeholder images for every occasion
 - [Mailinator](https://www.mailinator.com/)
   - Free, Disposable email
